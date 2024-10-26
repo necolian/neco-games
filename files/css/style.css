@@ -1,0 +1,33 @@
+body{
+    font-family: "MS Gothic","Meiryo","Hiragino Sans";
+}
+
+a{
+    text-decoration: none;
+}
+
+.waku{
+    width: 250px;
+    height: 250px;
+    padding: 10px;
+    margin-bottom: 5px;
+    border: 1px solid #333333;
+}
+
+.games-a,games-a:hover,games-a:visited{
+    color: #000000;
+}
+
+.yoko {
+  display: flex;
+  overflow-x: scroll;
+}
+ 
+.yoko div {
+  width: 90%;
+  margin: auto;
+}
+
+.fs-60{
+    font-size: 60%;
+}
