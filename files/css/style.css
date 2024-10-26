@@ -28,6 +28,21 @@ a{
   margin: auto;
 }
 
-.fs-60{
+.fs-60 {
     font-size: 60%;
+}
+
+select {
+  appearance: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  border: none;
+  border-radius: 5px;
+  color: #333000;
+  font-size: 14px;
+  padding: 0 10px;
+  height: 25px;
+  width: 100px;
+  position: relative;
+  background: #ffffff url({https://ginneko-atelier.com}/assets/arrow.svg) no-repeat right 10px center / 16px auto;
 }
