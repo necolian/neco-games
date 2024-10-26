@@ -1,0 +1,28 @@
+.nav-a1,nav-a1:hover,nav-a1:visited{
+    color: #ffffff;
+}
+
+.nav-a2,nav-a2:hover,.nav-a2:visited{
+    color: #000000;
+}
+
+.nav-all{
+    justify-content: space-between;
+    text-align: center;
+    background-color: #FFDA8F;
+}
+
+.nav-header{
+    max-width: 1100;
+    background-color: #FFAB00;
+}
+
+.nav-h1{
+    color: #ffffff;
+}
+
+.nav-ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
